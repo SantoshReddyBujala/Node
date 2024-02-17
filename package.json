@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "date-fns": "^3.3.1",
+    "uuid": "^9.0.1"
+  },
+  "scripts": {
+    "start": "node npmindex.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "node",
+  "version": "1.0.0",
+  "description": "=Learning",
+  "main": "index.js",
+  "keywords": [
+    "Node"
+  ],
+  "author": "Santosh",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
