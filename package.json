@@ -4,13 +4,13 @@
     "uuid": "^9.0.1"
   },
   "scripts": {
-    "start": "node npmindex.js",
-    "dev": "nodemon server.js"
+    "start": "node npmserver",
+    "dev": "nodemon npmserver"
   },
   "name": "node",
   "version": "1.0.0",
   "description": "=Learning",
-  "main": "index.js",
+  "main": "server.js",
   "keywords": [
     "Node"
   ],
